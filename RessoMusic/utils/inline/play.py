@@ -62,11 +62,12 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="ϲнαт", url=f"https://t.me/+OsAgHgPQwyU4Zjg1"
+                text="𝘊𝘩𝘢𝘯𝘯𝘦𝘭 𝘴𝘶𝘱𝘱𝘰𝘳𝘵", url=f"https://t.me/FEELING_SMILEY"
             ),
             InlineKeyboardButton(
-                text="ηεω вσт", url=f"https://t.me/Khwahish_Music_bot"
+                text="𝘎𝘳𝘰𝘶𝘱 𝘴𝘶𝘱𝘱𝘰𝘳𝘵", url=f"https://t.me/FRIENSHIP_CLUB_GROUP"
             ),
+            
         ],
     ]
     return buttons
@@ -83,10 +84,10 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="ϲнατ", url=f"https://t.me/+OsAgHgPQwyU4Zjg1"
+                text="𝘊𝘩𝘢𝘯𝘯𝘦𝘭 𝘴𝘶𝘱𝘱𝘰𝘳𝘵", url=f"https://t.me/FEELING_SMILEY"
             ),
             InlineKeyboardButton(
-                text="ηεω вσт", url="https://t.me/Khwahish_Music_bot"
+                text="𝘎𝘳𝘰𝘶𝘱 𝘴𝘶𝘱𝘱𝘰𝘳𝘵", url="https://t.me/FRIENSHIP_CLUB_GROUP"
             ),
         ],
     ]
